@@ -1,0 +1,2 @@
+export const ADD_PRODUCT_CART = 'ADD_PRODUCT_CART';
+export const GET_ITEM_COUNT_CART = 'GET_ITEM_COUNT_CART';
